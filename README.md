@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-
+<--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshourAlaa)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
