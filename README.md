@@ -1,7 +1,7 @@
 <img width=1500px height=320px src="https://www.eschoolnews.com/files/2021/02/coding-platform-STEM-code.jpg" />  
 ### Hi there 👋im Alaa Ashour✨
 
-**AshourAlaa/AshourAlaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 About me:
 
